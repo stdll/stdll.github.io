@@ -2,7 +2,7 @@
 layout: default
 title: Tools
 permalink: /learning/tools
-nav_order: 3
+nav_order: 4
 ---
 # Tools
 
