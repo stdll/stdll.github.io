@@ -2,7 +2,7 @@
 layout: default
 title: Linux
 permalink: /learning/linux
-nav_order: 1
+nav_order: 5
 ---
 
 How to enable hardware acceleration for Intel UHD devices:
