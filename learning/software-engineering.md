@@ -10,3 +10,11 @@ Although I have a strong JVM/Java background, I think most of the following arti
 
 * [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 * [Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html)
+
+## Spring
+
+* [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security)
+
+## Documentation
+
+* [The documentation system](https://documentation.divio.com/)
