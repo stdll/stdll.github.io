@@ -17,4 +17,5 @@ Although I have a strong JVM/Java background, I think most of the following arti
 
 ## Documentation
 
+* [Google: technical writing courses](https://developers.google.com/tech-writing/overview)
 * [The documentation system](https://documentation.divio.com/)
