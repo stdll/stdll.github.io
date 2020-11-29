@@ -2,7 +2,7 @@
 layout: default
 title: ToDo
 permalink: /learning/todo
-nav_order: 6
+nav_order: 7
 ---
 
 ## CSS
