@@ -2,6 +2,7 @@
 layout: default
 title: Tools
 permalink: /learning/tools
+parent: Learning
 nav_order: 4
 ---
 

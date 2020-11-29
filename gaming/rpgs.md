@@ -2,7 +2,8 @@
 layout: default
 title: RPG Guides
 permalink: /gaming/rpgs
-nav_order: 101
+parent: Gaming
+nav_order: 2
 ---
 ## Pillars of Eternity
 

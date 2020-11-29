@@ -2,6 +2,7 @@
 layout: default
 title: Functional & Technical Design
 permalink: /learning/design
+parent: Learning
 nav_order: 2
 ---
 ## DDD

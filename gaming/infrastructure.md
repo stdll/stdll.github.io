@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Gaming
-permalink: /gaming
-nav_order: 100
+title: Infrastructure
+permalink: /gaming/infrastructure
+parent: Gaming
+nav_order: 1
 ---
 ## In-home Streaming
 

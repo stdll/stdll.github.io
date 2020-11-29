@@ -2,6 +2,7 @@
 layout: default
 title: Software Engineering
 permalink: /learning/software-engineering
+parent: Learning
 nav_order: 1
 ---
 ## Software Engineering

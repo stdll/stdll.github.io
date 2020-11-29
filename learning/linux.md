@@ -2,6 +2,7 @@
 layout: default
 title: Linux
 permalink: /learning/linux
+parent: Learning
 nav_order: 6
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: ToDo
 permalink: /learning/todo
+parent: Learning
 nav_order: 7
 ---
 

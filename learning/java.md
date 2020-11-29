@@ -2,6 +2,7 @@
 layout: default
 title: Java (& Frameworks)
 permalink: /learning/java
+parent: Learning
 nav_order: 4
 ---
 ## Java

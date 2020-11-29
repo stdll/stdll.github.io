@@ -2,6 +2,7 @@
 layout: default
 title: Protocols
 permalink: /learning/protocols
+parent: Learning
 nav_order: 3
 ---
 
