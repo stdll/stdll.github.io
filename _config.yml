@@ -10,5 +10,5 @@ collections:
     output: true
 
 just_the_docs:
-    tutorials:
-      name: Tutorials
+  tutorials:
+    name: Tutorials
