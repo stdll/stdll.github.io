@@ -3,3 +3,12 @@ search_enabled: true
 aux_links:
   "Source code on GitHub":
     - "//github.com/stdll/stdll.github.io"
+
+collections:
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+    tutorials:
+      name: Tutorials
