@@ -6,9 +6,10 @@ parent: Learning
 nav_order: 7
 ---
 
-## CSS
+## CSS / SASS
 
 * [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
+* [SASS Guidelines](https://sass-guidelin.es/)
 
 ## Software Architecture
 
@@ -16,20 +17,30 @@ nav_order: 7
 
 ## Software Engineering
 
-Online Sandboxes:
+### Online Sandboxes:
 
 * [Online Code Sandbox für alle möglichen Sprachen (inkl. Java)](https://replit.com)
 * https://stackblitz.com/
 * https://codesandbox.io/dashboard
 
-TypeScript:
+### TypeScript:
 
 * [TypeScript Playground](https://www.typescriptlang.org/play)
 * https://ts.dev/style/
 * https://google.github.io/styleguide/tsguide.html
 
-Angular:
+### Angular:
+
 * https://angular-checklist.io/
+
+### RxJS
+
+* [RxJS Docs für v6 (aktuelle Version in Angular)](https://v6.rxjs.dev/a)
+* [Alternative Docs](https://www.learnrxjs.io/)
+* [Murmel-Diagramme](https://rxmarbles.com/)
+* [Visualizer](https://rxviz.com/)
+* [RxJS Fruits, Onlinespiel zum RxJS lernen](https://www.rxjs-fruits.com/)
+* [ReactiveX](http://reactivex.io/)
 
 ## Learning
 
